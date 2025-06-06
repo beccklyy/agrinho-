@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Agrinho - Do Campo à Cidade</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Agrinho: Festejando do Campo à Cidade</h1>
+    <div class="font-controls" role="group" aria-label="Controle de tamanho da fonte">
+      <button id="decreaseFont" aria-label="Diminuir fonte">A-</button>
+      <button id="resetFont" aria-label="Restaurar fonte">A</button>
+      <button id="increaseFont" aria-label="Aumentar fonte">A+</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro futuristic-card">
+      <p>
+        O <strong>Agrinho</strong> celebra a conexão entre o campo e a cidade, unindo tradição e tecnologia para construir um futuro sustentável e inovador.
+      </p>
+    </section>
+
+    <section class="gallery futuristic-gallery">
+      <figure>
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80" alt="Campo com plantações" />
+        <figcaption>O verde do campo e a força da terra.</figcaption>
+      </figure>
+      <figure>
+        <img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=600&q=80" alt="Cidade com pessoas" />
+        <figcaption>A cidade que celebra a agricultura.</figcaption>
+      </figure>
+      <figure>
+        <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80" alt="Crianças festejando" />
+        <figcaption>Crianças participando da festa Agrinho.</figcaption>
+      </figure>
+    </section>
+
+    <section class="agricultura-4-0 futuristic-section">
+      <h2>Agricultura 4.0: A tecnologia transformando o campo</h2>
+      <p>
+        A Agricultura 4.0 representa a evolução do setor agrícola ao integrar tecnologias digitais avançadas que permitem a produção mais eficiente, sustentável e inteligente. Essa nova era do campo utiliza sensores, drones, veículos autônomos, internet das coisas (IoT), big data e inteligência artificial para monitorar e gerenciar as culturas de forma precisa.
+      </p>
+      <p>
+        Sensores instalados em máquinas e no solo coletam dados em tempo real, como níveis de umidade, nutrientes, temperatura e crescimento das plantas. Esses dados são processados por sistemas inteligentes que indicam o momento ideal para irrigação, aplicação de fertilizantes e defensivos agrícolas, reduzindo o desperdício e o impacto ambiental. Drones sobrevoam as plantações capturando imagens que ajudam na análise da saúde das plantas e no mapeamento das áreas, facilitando o diagnóstico rápido de pragas e doenças.
+      </p>
+      <p>
+        Além disso, a agricultura de precisão permite que os agricultores tomem decisões baseadas em dados, aumentando a produtividade e a qualidade dos produtos. Veículos autônomos realizam plantio, colheita e outras tarefas com alta precisão, otimizando o tempo e reduzindo custos operacionais. A conectividade entre dispositivos e sistemas promove uma gestão integrada das propriedades rurais, conectando o campo à cidade em tempo real.
+      </p>
+      <img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80" alt="Tecnologia na agricultura" />
+    </section>
+
+    <section class="agricultura-4-0-avancada futuristic-section blue-gradient">
+      <div class="content-wrapper">
+        <h2>Explorando a Agricultura 4.0: Tecnologia, Inovação e Futuro</h2>
+        <p>
+          A Agricultura 4.0 é uma verdadeira revolução no modo como produzimos alimentos, integrando tecnologias digitais avançadas para otimizar cada etapa da produção agrícola. Essa nova fase do campo conecta sensores, máquinas, satélites, drones e sistemas de inteligência artificial para criar uma rede inteligente que coleta, analisa e atua sobre dados em tempo real. O objetivo principal é aumentar a produtividade, reduzir desperdícios, preservar o meio ambiente e garantir a segurança alimentar diante de uma população mundial crescente.
+        </p>
+        <p>
+          Entre as tecnologias mais utilizadas, destacam-se a Internet das Coisas (IoT), que conecta sensores no solo e nas plantações para monitorar condições como umidade, temperatura, pH e níveis de nutrientes. Essas informações são transmitidas para plataformas digitais que permitem o acompanhamento remoto e o controle automatizado de irrigação e fertilização, garantindo que as plantas recebam exatamente o que precisam, no momento certo.
+        </p>
+        <p>
+          Drones equipados com câmeras multiespectrais sobrevoam as plantações para captar imagens detalhadas, possibilitando a identificação precoce de pragas, doenças e falhas no desenvolvimento das culturas. Esses dados ajudam os agricultores a agir rapidamente, aplicando defensivos somente nas áreas afetadas, o que diminui o uso excessivo de produtos químicos e protege a biodiversidade local.
+        </p>
+        <p>
+          A inteligência artificial e o Big Data têm papel fundamental nesse contexto, pois permitem a análise de grandes volumes de dados históricos e atuais, prevendo tendências climáticas, estimando produtividade e orientando decisões estratégicas de manejo agrícola. Com algoritmos sofisticados, máquinas autônomas podem executar tarefas como plantio, pulverização e colheita com precisão milimétrica, otimizando tempo e recursos.
+        </p>
+        <p>
+          Além dos benefícios econômicos, a Agricultura 4.0 traz um impacto ambiental positivo. Ao utilizar os recursos naturais com eficiência, reduz o consumo de água, energia e insumos, contribuindo para a sustentabilidade do planeta. Essa transformação também atrai jovens para o campo, valorizando o conhecimento tecnológico aliado às práticas agrícolas tradicionais.
+        </p>
+        <p>
+          A conectividade entre o campo e a cidade é fortalecida por meio de plataformas digitais que integram produtores, fornecedores, consumidores e órgãos reguladores. Isso gera transparência, rastreabilidade dos alimentos e maior acesso a mercados, fortalecendo a cadeia produtiva.
+        </p>
+        <p>
+          Em resumo, a Agricultura 4.0 representa a união entre tecnologia e natureza para construir uma agricultura mais inteligente, produtiva e sustentável, essencial para garantir a alimentação e o equilíbrio ambiental para as futuras gerações.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Agrinho - Celebrando a união do campo e da cidade</p>
+  </footer>
+
+  <script>
+    const body = document.body;
+    const increaseBtn = document.getElementById('increaseFont');
+    const decreaseBtn = document.getElementById('decreaseFont');
+    const resetBtn = document.getElementById('resetFont');
+
+    let fontSize = 16; // em pixels
+
+    function setFontSize(size) {
+      fontSize = size;
+      body.style.fontSize = fontSize + 'px';
+    }
+
+    increaseBtn.addEventListener('click', () => {
+      if (fontSize < 30) setFontSize(fontSize + 2);
+    });
+
+    decreaseBtn.addEventListener('click', () => {
+      if (fontSize > 10) setFontSize(fontSize - 2);
+    });
+
+    resetBtn.addEventListener('click', () => {
+      setFontSize(16);
+    });
+
+    setFontSize(fontSize);
+  </script>
+</body>
+</html>
+<section class="gallery">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1603052875521-0492d0d30c2a?auto=format&fit=crop&w=600&q=80" alt="Agricultor colhendo à mão" />
+    <figcaption>Trabalho manual no campo</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1576866209830-721cd517b567?auto=format&fit=crop&w=600&q=80" alt="Trator com tecnologia no campo" />
+    <figcaption>Máquinas inteligentes na lavoura</figcaption>
+  </figure>
+  <figure>
+    <img src="ppppp" alt="Crianças em aula ao ar livre" />
+    <figcaption>Educação rural e conexão com a terra</figcaption>
+  </figure>
+  <figure>
+    <img src="ppp" alt="Drone sobre plantação" />
+    <figcaption>Uso de drones na agricultura 4.0</figcaption>
+  </figure>
+  <figure>
+    <img src="colheta" alt="Tecnologia e dados agrícolas" />
+    <figcaption>Monitoramento digital das colheitas</figcaption>
+  </figure>
+  <figure>
+    <img src="oooo" alt="Natureza exuberante ao entardecer" />
+    <figcaption>Natureza em harmonia com a produção</figcaption>
+  </figure>
+</section>
